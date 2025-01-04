@@ -1,6 +1,7 @@
 # Tower Defense Reinforcement Learning
 
 This repository contains a reinforcement learning implementation for a Tower Defense game using Deep Q-Networks (DQN) with prioritized experience replay. The game environment and the agent are built using Python, Pygame, NumPy, and TensorFlow.
+![image](https://github.com/user-attachments/assets/0e5b3a67-c186-4e48-a538-f7d61965c564)
 
 ## Table of Contents
 
